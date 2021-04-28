@@ -1,0 +1,1 @@
+[03-Jul-2020 12:55:06 America/Boise] PHP Parse error:  syntax error, unexpected '$header' (T_VARIABLE) in /home1/syrostec/public_html/server/app.sign-service.php on line 135

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+Disallow: /webfont/
+Disallow: /fonts/
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /css/
+Disallow: /include/
+Sitemap: http://www.syrol.org/sitemap.xml
