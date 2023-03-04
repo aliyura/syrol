@@ -13,7 +13,7 @@
 
 	<div class="title" style="margin-bottom:1em">
 		<div class="container">
-    	<h2>MEET OUR INSTRUCTORS<span class="slogan">Our Team</span> </h2>
+    	<h2>MEET OUR TEAM<span class="slogan">Our Team</span> </h2>
     </div>
   </div><!-- Section Title -->
   
@@ -67,10 +67,10 @@
 			</div>
             <div class="item">
 				<div class="serve-img"> 
-					<img alt="syrol" src="images/b2.jpg" alt="" />
+					<img alt="syrol" src="images/b2.png" alt="" />
 					<div class="serve-hover">
 					
-						<a href="images/b2.jpg" class="html5lightbox" data-group="team"><span class="magnify"></span></a>
+						<a href="images/b2.png" class="html5lightbox" data-group="team"><span class="magnify"></span></a>
 					</div>
 				</div>
 				<div class="figcaption"> 

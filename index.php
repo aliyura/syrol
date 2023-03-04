@@ -10,7 +10,7 @@
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 
-<link rel="icon" type="image/png" href="images/logo.PNG">    
+<link rel="icon" type="image/png" href="images/logo.png">    
 <!-- //custom-theme -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -92,7 +92,7 @@
 					<div id="typed-strings" class="agileits_syrol_strings">
 						<p>better software <i>training</i> for better world</p>
                         <p><i>engineering</i> is a road for a better future</p>
-						<p>nothing will work unless you <i>learn</i></p>
+						<p>The world of digital transformation & <i>innovation</i></p>
 					</div>
 					<span id="typed" style="white-space:pre;"></span>
 				</div>

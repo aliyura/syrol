@@ -63,10 +63,10 @@ else if($page=="contact.php"){
 	</nav>
 </div>
 <div class="sy_agile_phone">
-	<p><i class="fa fa-phone" aria-hidden="true"></i> (+234)7062029832</p>
+	<p><i class="fa fa-phone" aria-hidden="true"></i> (+234)8064160204</p>
 </div>
 <div class="chatus-on-whatsapp">
-    <a href="https://wa.me/2347062029832">
+    <a href="https://wa.me/2348064160204">
 	   <p style="margin-right: 7px;"><i class="fa fa-comment" aria-hidden="true"></i> Chat with Us</p>
 	</a>
 </div>

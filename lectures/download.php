@@ -85,7 +85,7 @@
 <!-- js -->
 <script type="text/javascript" src="../js/jquery-2.1.4.min.js"></script>
 <!-- //js -->
-<link rel="icon" type="image/png" href="../images/logo.PNG">
+<link rel="icon" type="image/png" href="../images/logo.png">
 <!-- font-awesome-icons -->
 <link href="../css/font-awesome.css" rel="stylesheet"> 
 <!-- //font-awesome-icons -->

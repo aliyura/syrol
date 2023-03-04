@@ -19,8 +19,8 @@
       <div class="location">
 		<p>Get In Touch With Us.</p>
         <ul>
-          <li><i class="theme-icon email"></i><span class="source">by e-mail;</span> <span class="detail"><a href="" title="">contact@syrol.org</a><br><a href="" title="">management@syrol.org</a></span> </li>
-          <li><i class="theme-icon phone"></i><span class="source">by phone;</span> <span class="detail"><a href="" title="">(+234)7062029832 <br> (+234)8064160204</a></span> </li>
+          <li><i class="theme-icon email"></i><span class="source">by e-mail;</span> <span class="detail"><a href="" title="">hello@syrol.org</a></span> </li>
+          <li><i class="theme-icon phone"></i><span class="source">by phone;</span> <span class="detail"><a href="" title="">(+234)8064160204 <br> (+234)7010166660</a></span> </li>
           <li><i class="theme-icon home"></i><span class="source">Address;</span> <span class="detail"><a href="" title="">No.6C Adewale Street, Lambasa, Ajah Lekki Lagos Nigeria.</a></span> </li>
         </ul>
       </div>
@@ -46,7 +46,7 @@
 
 <div class="bottom-footer">
   <div class="container">
- 	<p>© 2019 Syrol Technologies. All rights reserved</p>
+ 	<p>© 2023 Syrol Technologies. All rights reserved</p>
 	<div class="footer-social-icons">
 		<ul>
 			<li><a href="https://web.facebook.com/syrol.technologies" title=""><i class="theme-icon facebook"></i></a></li>
